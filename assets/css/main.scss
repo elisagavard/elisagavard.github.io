@@ -42,7 +42,20 @@
     "vendor/font-awesome/brands"
 ;
 
+// Avatar rond
 .author__avatar img {
-  border-radius: 50%;    /* rend l'image circulaire */
-  object-fit: cover;     /* évite les déformations */
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Couleur des liens en vert forêt */
+a {
+  color: #228B22;          /* vert forêt */
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #176118;          /* un vert un peu plus sombre au survol */
+  text-decoration: underline;
 }
