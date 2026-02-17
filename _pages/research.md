@@ -28,6 +28,6 @@ Full poster is available on [ResearchGate](https://www.researchgate.net/publicat
 <b>2022</b> 
 
 Poster presented at the 2022 conference of the Interdisciplinary Advances in Statistical Learning (IASL), held from 05–07 June in San Sebastian, Spain.
-Full poster is available on [ResearchGate](https://hal.science/tel-04913412v1).
+Full poster is available on [ResearchGate](https://www.researchgate.net/publication/361052655_The_role_of_prediction_and_statistical_learning_in_reading).
 
 ![](/images/research/poster-iasl2022.jpg)
