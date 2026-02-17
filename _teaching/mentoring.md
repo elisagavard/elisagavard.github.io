@@ -1,20 +1,19 @@
 ---
-title: "Mentoring"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: Mentoring & (co)Supervision 
+date: 2026-08-31
+permalink: /teaching/mentoring
+excerpt_separator: <!--more-->
+toc: true
+tags:
+  - mentoring
+  - supervision
+  - teaching
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Marine Royer, CFUO de Tours, co-supervision of a research dissertation, Université Lumière Lyon 2, 2025-2026.
 
-Heading 1
-======
+Clémentine Casolis, BA 2nd year in psychology, co-supervision of a research internship, AMU, 2025.
 
-Heading 2
-======
+Lou Billard-Zucca, BA 2nd year in psychology, supervision of a research internship, AMU, 2024.
 
-Heading 3
-======
+Myriam Jout, BA 3rd year in psychology, co-supervision of a research dissertation, AMU, 2018-2019.
