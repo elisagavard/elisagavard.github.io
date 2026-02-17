@@ -1,7 +1,7 @@
 ---
 title: "Verbatim and gist memory in aging"
 collection: publications
-permalink: /publication/2022-Abadie-aging
+permalink: /publication/2021-Abadie-aging
 date: 2021
 venue: 'Psychology and Aging'
 paperurl: '/files/pdf/research/Abadie2021_aging.pdf'
