@@ -50,12 +50,17 @@
 
 /* Couleur des liens en vert forêt */
 a {
-  color: #154554;          /* bleu pétrole */
+  color: #1F6A7A;          
   text-decoration: none;
 }
 
 a:hover,
 a:focus {
-  color: #0f3640;          /* un bleu un peu plus sombre au survol */
+  color: #15515E;          
   text-decoration: underline;
+}
+
+/* Couleur des titres */
+h1, h2, h3, h4 {
+  color: #1F6A7A;
 }
