@@ -2,7 +2,7 @@
 title: "Semantic and Syntactic Predictions in Reading Aloud: Are Good Predictors Good Statistical Learners?"
 collection: publications
 permalink: /publication/2024-Gavard-joc
-date: 2024
+date: 2024-01-01
 venue: 'Journal of Cognition'
 paperurl: '/files/pdf/research/Gavard2024_joc.pdf'
 link: 'https://journalofcognition.org/articles/10.5334/joc.363'
