@@ -193,10 +193,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # _teaching
   - scope:
       path: ""
-      type: posts
+      type: teaching
     values:
       layout: single
       author_profile: true
