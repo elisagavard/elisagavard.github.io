@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-About me
-======
 Hello ! I'm Elisa, and I am a neuropsychologist and a researcher in cognitive psychology and educational sciences.
 
 My research focuses on predictive processes in reading and statistical learning in developmental and adult dyslexia. I am particularly interested in the compensatory and protective mechanisms that allow adults with dyslexia to succeed in higher education, and in how these mechanisms relate to language development and learning to read. My long-term goal si to contribute to innovative and personalised educational tools and interventions for learners with reading difficulties.
