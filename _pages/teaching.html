@@ -3,17 +3,34 @@ layout: archive
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
-header:
-  og_image: ""
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<nav class="teaching-tabs">
+  <a href="#amu">Aix-Marseille Université</a>
+  <a href="#uga">Université Grenoble Alpes</a>
+  <a href="#mentoring">Mentoring</a>
+</nav>
+
+<section id="amu">
+  <h2>Aix-Marseille Université</h2>
+  <!-- tes cours AMU -->
+</section>
+
+<section id="uga">
+  <h2>Université Grenoble Alpes</h2>
+  <!-- tes cours UGA -->
+</section>
+
+<section id="mentoring">
+  <h2>Mentoring</h2>
+  <strong>Marine Royer</strong>, CFUO de Tours, co-supervision of a research dissertation, AMU, 2025-2026.
+  <strong>Clémentine Casolis</strong>, BA 2nd year in psychology, co-supervision of a research internship, AMU, 2025
+  <strong>Lou Billard-Zucca</strong>, BA 2nd year in psychology, supervision of a research internship, AMU, 2024
+  <strong>Myriam Jout</strong>, BA 3rd year in psychology, co-supervision of a research dissertation, AMU, 2018-2019.
+  <ul>
+    <li>Marine Royer – MSc CFUO, Tours (co-supervision of research dissertation, 2025–2026).</li>
+    <li>Clémentine Casolis – BA 2nd year, Aix-Marseille Université (research internship, 2025).</li>
+    <li>Lou Billard-Zucca – BA 2nd year, Aix-Marseille Université (research internship, 2024).</li>
+    <li>Myriam Jout – BA 3rd year, Aix-Marseille Université (co-supervision of research dissertation, 2018–2019).</li>
+  </ul>
+</section>
