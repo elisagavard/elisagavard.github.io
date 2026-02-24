@@ -64,3 +64,9 @@ a:focus {
 h1, h2, h3, h4 {
   color: #1F6A7A;
 }
+
+.logo-amu-left {
+  max-width: 80px;       /* taille à ajuster */
+  float: left;
+  margin: 0 0.8rem 0.4rem 0;  /* espace à droite et en bas du logo */
+}
